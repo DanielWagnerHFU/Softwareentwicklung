@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/bin/MCD/Debug/net6.0/Lesson.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
