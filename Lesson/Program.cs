@@ -1,9 +1,8 @@
-﻿
-MyClass i = new MyClass{value = 42};
+﻿MyClass i = new MyClass{value = 42};
 MyClass j = i;
-Console.WriteLine(j);
-public class MyClass 
+i.value = 43;
+Console.WriteLine(j.value);
+public class MyClass
 {
     public int value;
 }
-
