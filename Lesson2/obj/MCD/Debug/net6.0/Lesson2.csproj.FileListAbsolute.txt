@@ -1,0 +1,15 @@
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\bin\MCD\Debug\net6.0\Lesson2.exe
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\bin\MCD\Debug\net6.0\Lesson2.deps.json
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\bin\MCD\Debug\net6.0\Lesson2.runtimeconfig.json
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\bin\MCD\Debug\net6.0\Lesson2.dll
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\bin\MCD\Debug\net6.0\Lesson2.pdb
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.csproj.AssemblyReference.cache
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.AssemblyInfoInputs.cache
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.AssemblyInfo.cs
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.csproj.CoreCompileInputs.cache
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.dll
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\refint\Lesson2.dll
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.pdb
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\Lesson2.genruntimeconfig.cache
+D:\Daten\Coding\Git\Repositorys\Softwareentwicklung\Lesson2\obj\MCD\Debug\net6.0\ref\Lesson2.dll
