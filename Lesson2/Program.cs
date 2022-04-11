@@ -4,7 +4,6 @@ A b = new B();
 a.M();
 b.M();
 
-
 public class A {
     public virtual void M() {
         Console.WriteLine("1");
